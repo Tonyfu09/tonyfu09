@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have been working in the IT field more than 10 years, interted in pentesting, vulnerability research, devops, devsecops.  
+I have been working in the IT field more than 10 years, interted in pentesting, vulnerability research, devops, devsecops. Extensive experience as network engineer and cybersecurity engineer, interest in automation, simplifying architecture, and innovating with new technologies.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tony-fu-/">
