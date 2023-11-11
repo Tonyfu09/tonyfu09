@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+<div id="header" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100"/>
+</div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/tony-fu-/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 Introduction
 I am 
