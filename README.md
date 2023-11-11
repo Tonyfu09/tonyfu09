@@ -1,17 +1,13 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100"/>
-</div>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/tony-fu-/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 Introduction
 I am 
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tony-fu-/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **Tonyfu09/tonyfu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
