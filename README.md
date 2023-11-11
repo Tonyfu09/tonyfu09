@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Introduction
-I am 
+I have been working in the IT field more than 10 years, interted in pentesting, vulnerability research, devops, devsecops.  
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tony-fu-/">
