@@ -7,7 +7,7 @@ I have been working in the IT field more than 10 years, interted in penetration 
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@tony-fu-">
-    <img src="https://img.shields.io/badge/Medium-black?logo=Medium&logoColor=white" width="100" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Medium-black?logo=Medium&logoColor=white" width="100" alt="Medium Badge"/>
   </a>
 </div>
 
