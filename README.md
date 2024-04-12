@@ -7,7 +7,7 @@ I have been working in the IT field more than 10 years, interted in penetration 
 -->
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tony-fu-/">
+  <a href="https://www.linkedin.com/in/tony-fu-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100" alt="LinkedIn Badge"/>
   </a>
   <a href="https://tony-fu.medium.com">
