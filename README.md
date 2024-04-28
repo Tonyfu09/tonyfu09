@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-I'm a IT professional with over 10 years of experience in the industry. My interests span a wide range, from penetration testing and vulnerability research to the realms of DevOps and DevSecOps. With extensive backgrounds in both network engineering and cybersecurity, I thrive on simplifying architectures, automating processes, and pushing the boundaries with innovative technologies.
+I'm a IT professional with over 10 years of experience in the industry. My interests span a wide range, from penetration testing and vulnerability research to the realms of  DevSecOps. With extensive backgrounds in both network engineering and cybersecurity, I thrive on simplifying architectures, automating processes, and pushing the boundaries with innovative technologies.
 
 <!--
 I have been working in the IT field more than 10 years, interted in penetration test, vulnerability research, devops and devsecops. Extensive experience as network engineer and cybersecurity engineer, interest in automation, simplifying architecture, and innovating with new technologies.
