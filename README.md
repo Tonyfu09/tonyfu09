@@ -2,7 +2,7 @@
 
 I'm a IT professional with over 10 years of experience in the industry. My interests span a wide range, from penetration testing and vulnerability research to the realms of  DevSecOps. With extensive backgrounds in both network engineering and cybersecurity, I thrive on simplifying architectures, automating processes, and pushing the boundaries with innovative technologies. <br>
 
-**Skill Set:** <br>
+**Skill Set:** <br> <br>
 ✔️ Python <br>
 ✔️ Cyber Security <br>
 
