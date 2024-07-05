@@ -6,6 +6,9 @@ I'm a IT professional with over 10 years of experience in the industry. My inter
 - [x] Python
 - [x] Cyber Security
 
+- **Python:**
+  - [x] Beginner
+
 <!--
 I have been working in the IT field more than 10 years, interted in penetration test, vulnerability research, devops and devsecops. Extensive experience as network engineer and cybersecurity engineer, interest in automation, simplifying architecture, and innovating with new technologies.
 -->
