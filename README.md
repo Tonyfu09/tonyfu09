@@ -1,10 +1,14 @@
 ### Hi Everyone 👋
 
-Currently, I am working as a cybersecurity analyst and have been in the cybersecurity field for approximately three years. I'm a IT professional with over 10 years of experience in the industry. My interests span a wide range, from penetration testing and vulnerability research to the realms of  DevSecOps. With extensive backgrounds in both network engineering and cybersecurity, I thrive on simplifying architectures, automating processes, and pushing the boundaries with innovative technologies. <br>
+Welcome to my GitHub profile!
+
+I'm an IT professional with over 10 years of experience in the industry, currently working as a cybersecurity analyst with approximately three years of focused expertise in the field. My interests span a wide range, from penetration testing and vulnerability research to the realms of DevSecOps. <br>
+
+With extensive backgrounds in both network engineering and cybersecurity, I thrive on simplifying architectures, automating processes, and pushing the boundaries with innovative technologies. I'm passionate about sharing knowledge, collaborating on exciting projects, and connecting with like-minded professionals. <br>
 
 **Skill Set:** <br>
-✔️ Python <br>
 ✔️ Cyber Security <br>
+✔️ Python <br>
 
 <!--
 I have been working in the IT field more than 10 years, interted in penetration test, vulnerability research, devops and devsecops. Extensive experience as network engineer and cybersecurity engineer, interest in automation, simplifying architecture, and innovating with new technologies.
