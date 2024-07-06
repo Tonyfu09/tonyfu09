@@ -1,11 +1,11 @@
 ### Hi Everyone 👋
 
 Welcome to my GitHub profile!
-
+ <br>
 I'm an IT professional with over 10 years of experience in the industry, currently working as a cybersecurity analyst with approximately three years of focused expertise in the field. My interests span a wide range, from penetration testing and vulnerability research to the realms of DevSecOps. <br>
-
+ <br>
 With extensive backgrounds in both network engineering and cybersecurity, I thrive on simplifying architectures, automating processes, and pushing the boundaries with innovative technologies. I'm passionate about sharing knowledge, collaborating on exciting projects, and connecting with like-minded professionals. <br>
-
+ <br>
 **Skill Set:** <br>
 ✔️ Cyber Security <br>
 ✔️ Python <br>
