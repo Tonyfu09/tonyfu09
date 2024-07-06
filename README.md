@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! <br>
  <br>
 I'm an IT professional with over 10 years of experience in the industry, currently working as a cybersecurity analyst with approximately three years of focused expertise in the field. My interests span a wide range, from penetration testing and vulnerability research to the realms of DevSecOps. <br>
  <br>
