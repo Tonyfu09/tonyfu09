@@ -9,6 +9,7 @@ With extensive backgrounds in both network engineering and cybersecurity, I thri
 **Skill Set:** <br>
 ✔️ Cyber Security <br>
 ✔️ Python <br>
+✔️ Automation <br>
 
 <!--
 I have been working in the IT field more than 10 years, interted in penetration test, vulnerability research, devops and devsecops. Extensive experience as network engineer and cybersecurity engineer, interest in automation, simplifying architecture, and innovating with new technologies.
