@@ -10,6 +10,7 @@ With extensive backgrounds in both network engineering and cybersecurity, I thri
 ✔️ Cyber Security <br>
 ✔️ Python <br>
 ✔️ CICD Pipeline <br>
+✔️ Cloud Engineer <br>
 
 <!--
 I have been working in the IT field more than 10 years, interted in penetration test, vulnerability research, devops and devsecops. Extensive experience as network engineer and cybersecurity engineer, interest in automation, simplifying architecture, and innovating with new technologies.
