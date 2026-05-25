@@ -8,6 +8,7 @@ With extensive backgrounds in both network engineering and cybersecurity, I thri
  <br>
 **Skill Set:** <br>
 ✔️ Cyber Security <br>
+✔️ Cloud Security <br>
 ✔️ DevSecOps <br>
 ✔️ Python <br>
 ✔️ CICD Pipeline <br>
